@@ -1,0 +1,14 @@
+create new project in firebase
+copy firebase code from firebase
+
+--> goto firebase database
+--> import import { getFirestore } from "firebase/firestore" in the firebase.js
+--> export getFirestore form firebase.js
+--> export const db = getFirestore(app)
+
+
+submit data to firebase = 
+import valriable db from the firebase in your html form  
+
+import collection and adddoc from the collection means in which section
+and adddoc is method
